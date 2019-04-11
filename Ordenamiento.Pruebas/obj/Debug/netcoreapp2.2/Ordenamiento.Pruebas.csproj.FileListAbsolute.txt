@@ -1,0 +1,17 @@
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.deps.json
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.runtimeconfig.json
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.runtimeconfig.dev.json
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.dll
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.Pruebas.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.dll
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\bin\Debug\netcoreapp2.2\Ordenamiento.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.csprojAssemblyReference.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.AssemblyInfoInputs.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.AssemblyInfo.cs
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.csproj.CopyComplete
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.dll
+C:\Users\ASKII.DESKTOP-D39ELPS\Documents\gitStuff\tdd-Shernandezglez\Ordenamiento.Pruebas\obj\Debug\netcoreapp2.2\Ordenamiento.Pruebas.pdb

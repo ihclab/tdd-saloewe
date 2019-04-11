@@ -1,0 +1,87 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Ordenamiento/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Ordenamiento.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ordenamiento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ordenamiento/1.0.0": {
+      "type": "project",
+      "path": "../Ordenamiento/Ordenamiento.csproj",
+      "msbuildProject": "../Ordenamiento/Ordenamiento.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": [
+      "Ordenamiento >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
+    "restore": {
+      "projectUniqueName": "D:\\Users\\Admin\\Desktop\\tdd-Shernandezglez-master\\Ordenamiento.Pruebas\\Ordenamiento.Pruebas.csproj",
+      "projectName": "Ordenamiento.Pruebas",
+      "projectPath": "D:\\Users\\Admin\\Desktop\\tdd-Shernandezglez-master\\Ordenamiento.Pruebas\\Ordenamiento.Pruebas.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\Admin\\Desktop\\tdd-Shernandezglez-master\\Ordenamiento.Pruebas\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {
+            "D:\\Users\\Admin\\Desktop\\tdd-Shernandezglez-master\\Ordenamiento\\Ordenamiento.csproj": {
+              "projectPath": "D:\\Users\\Admin\\Desktop\\tdd-Shernandezglez-master\\Ordenamiento\\Ordenamiento.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
